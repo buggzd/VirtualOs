@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bg.jpg</file>
+        <file>winBar.jpg</file>
+        <file>FolderOpen.png</file>
+        <file>FolderClosed.png</file>
+        <file>FolderClosedquat.png</file>
+        <file>Folderopenquat.png</file>
+        <file>DocumentClose.png</file>
+        <file>DocumentOpen.png</file>
+        <file>up.png</file>
+        <file>Computer.png</file>
+        <file>ComputerOn.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
